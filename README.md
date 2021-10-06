@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Arvind Patel](https://github.com/karanmehragit), a iOS Developer 🚀 from India. Beside's programming.
+Hi, I'm [Karan Mehral](https://github.com/karanmehragit), a iOS Developer 🚀 from India. Beside's programming.
 
   <img align="right" alt="GIF" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/image.gif?raw=true" width="500" height="320" />
   

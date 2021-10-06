@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Karan Mehral](https://github.com/karanmehragit), a iOS Developer 🚀 from India. Beside's programming.
+Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀 from India. Beside's programming.
 
   <img align="right" alt="GIF" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/image.gif?raw=true" width="500" height="320" />
   
@@ -43,7 +43,7 @@ Hi, I'm [Karan Mehral](https://github.com/karanmehragit), a iOS Developer 🚀 f
 ### Tools
 
 **Software Development:**
-[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/arvindcs "XCode")](https://github.com/arvindcs)
+[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/arvindcs "XCode")](https://apps.apple.com/in/app/xcode/id497799835?mt=12)
  
 
 **Version Control:**

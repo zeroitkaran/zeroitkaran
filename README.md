@@ -27,7 +27,7 @@ Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀  f
 - 👨🏽‍💻 I’m currently working on client Project;
 - 🌱 I’m currently learning SwiftUI; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@mehra.karank](https://www.instagram.com/mehra.karank/) ;
+- 📫 How to reach me: [@mehra.karank](https://www.instagram.com/mehra.karank/)
 
 **Languages :**  
  ** Swift  <br/>

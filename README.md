@@ -43,7 +43,7 @@ Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀  f
 ### Tools
 
 **Software Development:**
-[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/arvindcs "XCode")](https://apps.apple.com/in/app/xcode/id497799835?mt=12)
+[[XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/arvindcs "XCode")](https://apps.apple.com/in/app/xcode/id497799835?mt=12)
  
 
 **Version Control:**

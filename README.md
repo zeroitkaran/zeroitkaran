@@ -32,7 +32,7 @@ Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀  f
 **Languages :**  
  ** Swift  <br/>
  ** SwiftUI <br/>
- ** Programminfg C++
+ ** Objective-C
 
 🚧 **My Todo Stats:**
 <!-- TODO-IST:START -->

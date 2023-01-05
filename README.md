@@ -50,6 +50,5 @@ Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀  f
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/arvindcs)](https://github.com/karanmehragit) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/arvindcs)](https://github.com/karanmehragit)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/arvindcs)](https://github.com/karanmehragit)
 <br/>
 

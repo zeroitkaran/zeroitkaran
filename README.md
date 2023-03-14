@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroitkaran&style=for-the-badge"> </p>
+
 <a href="https://twitter.com/mehrakarank">
   <img align="left" alt="Karan Mehra | Twitter" width="22px" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/twitter.svg" />
 </a>

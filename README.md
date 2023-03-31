@@ -38,7 +38,7 @@ Hi, I'm [Karan Mehra](https://github.com/karanmehragit), a iOS Developer 🚀  f
 
 🚧 **My Todo Stats:**
 <!-- TODO-IST:START -->
-🌸  Completed 1 live projects                  
+🌸  Completed 7+ live projects                  
 <!-- TODO-IST:END -->
 
 
